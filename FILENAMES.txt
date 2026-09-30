@@ -2,7 +2,7 @@ Put each center's photo in this images folder using the file name shown.
 .jpg is the default; .jpeg, .png and .webp also work.
 You can also list several photos for one center in the PHOTOS object at the top of script.js.
 
-Barangka Elementary School  ->  barangkaelemschool.jpg
+Barangka Elementary School  ->  images/barangkaelemschool.jpg
 Barangka Covered Court / Basketball Field  ->  images/barangka-covered-court-basketball-field.jpg
 Kalumpang Elementary School  ->  images/kalumpang-elementary-school.jpg
 Kalumpang National High School  ->  images/kalumpang-national-high-school.jpg
