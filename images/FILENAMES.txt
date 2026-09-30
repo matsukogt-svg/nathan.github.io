@@ -1,0 +1,41 @@
+Put each center's photo in this images folder using the file name shown.
+.jpg is the default; .jpeg, .png and .webp also work.
+You can also list several photos for one center in the PHOTOS object at the top of script.js.
+
+Barangka Elementary School  ->  images/barangka-elementary-school.jpg
+Barangka Covered Court / Basketball Field  ->  images/barangka-covered-court-basketball-field.jpg
+Kalumpang Elementary School  ->  images/kalumpang-elementary-school.jpg
+Kalumpang National High School  ->  images/kalumpang-national-high-school.jpg
+IVC Covered Court  ->  images/ivc-covered-court.jpg
+IVC Safety Center (Major Dizon Road)  ->  images/ivc-safety-center-major-dizon-road.jpg
+Jesus dela Peña Elementary School  ->  images/jesus-dela-pena-elementary-school.jpg
+Leodegario Victorino Elementary School  ->  images/leodegario-victorino-elementary-school.jpg
+Malanday Elementary School  ->  images/malanday-elementary-school.jpg
+Bulelak Gym / Covered Court  ->  images/bulelak-gym-covered-court.jpg
+Sampaguita Gym / Covered Court  ->  images/sampaguita-gym-covered-court.jpg
+San Roque Elementary School  ->  images/san-roque-elementary-school.jpg
+San Roque National High School  ->  images/san-roque-national-high-school.jpg
+Sta. Elena High School  ->  images/sta-elena-high-school.jpg
+Marikina Elementary School  ->  images/marikina-elementary-school.jpg
+Sto. Niño Elementary School  ->  images/sto-nino-elementary-school.jpg
+Sto. Niño National High School  ->  images/sto-nino-national-high-school.jpg
+Tañong High School  ->  images/tanong-high-school.jpg
+Tañong Elementary School  ->  images/tanong-elementary-school.jpg
+Tañong Gym  ->  images/tanong-gym.jpg
+H. Bautista Elementary School  ->  images/h-bautista-elementary-school.jpg
+Concepcion Elementary School  ->  images/concepcion-elementary-school.jpg
+Concepcion Integrated School (CIS) Main & San Lorenzo Campus  ->  images/concepcion-integrated-school-cis-main-san-lorenzo-campus.jpg
+SSS Village Elementary School (SSSVES)  ->  images/sss-village-elementary-school-sssves.jpg
+Marikina Sports Center  ->  images/marikina-sports-center.jpg
+Fortune High School  ->  images/fortune-high-school.jpg
+Fortune Elementary School  ->  images/fortune-elementary-school.jpg
+Fairlane Multi-Purpose Hall / Covered Court  ->  images/fairlane-multi-purpose-hall-covered-court.jpg
+Marikina Heights Barangay Gym  ->  images/marikina-heights-barangay-gym.jpg
+Manotoc Gym  ->  images/manotoc-gym.jpg
+Nangka Elementary School  ->  images/nangka-elementary-school.jpg
+Nangka Barangay Gym  ->  images/nangka-barangay-gym.jpg
+Filipinas Gym  ->  images/filipinas-gym.jpg
+Parang Gym  ->  images/parang-gym.jpg
+Parang Elementary School Open Grounds  ->  images/parang-elementary-school-open-grounds.jpg
+Woodrich Village Open Space  ->  images/woodrich-village-open-space.jpg
+Farmers I & Iwahig Safe Zones  ->  images/farmers-i-iwahig-safe-zones.jpg
